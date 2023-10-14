@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="ESPNEWS.us" group-title="Sports News" tvg-logo="https://list.satoshistreams.net/uploads/1518524153.png" tvg-name="ESPNNews" tvg-num="1", ESPNNews
 https://cdn-01.satoshistreams.net/viewsa/ch01q1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyAxMDozNjozNCBBTSZoYXNoX3ZhbHVlPTdtVHUyQjg0eUFsSXh1M0E5MkVLVXc9PSZ2YWxpZG1pbnV0ZXM9NDMyMDAmaWQ9NjAxMDAmaXA9OTguNTcuNjcuMjM0
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Sports News" tvg-logo="https://list.satoshistreams.net/uploads/1518524153-1.png" tvg-name="ESPN" tvg-num="2", ESPN
